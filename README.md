@@ -1,6 +1,6 @@
 # GADS2020
 Google Africa Developers Scholarship 2020 is comprised of 3 specialization tracks:
-1. Adroid Development Track
+1. Android Development Track
 2. Mobile Web Specialist Track
 3. Google Cloud Track
 
